@@ -1,0 +1,28 @@
+{
+  "username": "",
+  "password": "",
+  "headless": false,
+  "browser": "chromium",
+  "course_name": "",
+  "max_courses": 3,
+  "skip_done": true,
+  "video_rate": 16.0,
+  "finish_mode": "fast",
+  "fast_jump": true,
+  "poll_interval": 2.5,
+  "idle_timeout": 25,
+  "per_knowledge_timeout": 900,
+  "wait_timeout": 60,
+  "debug_html": false,
+  "ai": {
+    "base_url": "https://api.deepseek.com/v1",
+    "api_key": "",
+    "model": "deepseek-chat",
+    "max_retries": 3,
+    "knowledge_hint": "Linux操作系统（麒麟）课程"
+  },
+  "ocr": {
+    "enabled": true
+  },
+  "progress_file": "progress.json"
+}

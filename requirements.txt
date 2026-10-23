@@ -1,0 +1,5 @@
+playwright>=1.44
+requests>=2.31
+rapidocr-onnxruntime>=1.3.24
+Pillow>=10.0
+numpy
